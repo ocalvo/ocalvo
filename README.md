@@ -9,6 +9,8 @@
   <a href="https://www.linkedin.com/in/oscarcalvor/"><img src="https://img.shields.io/badge/LinkedIn-oscarcalvor-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
+<p align="center"><sub><i>Recruiters: I'm happily employed and not looking for a new role — thanks!</i></sub></p>
+
 ---
 
 ### About me
