@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://calvosoftware.com"><img src="https://img.shields.io/badge/Website-calvosoftware.com-2563eb?style=flat-square&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/oscarcalvor/"><img src="https://img.shields.io/badge/LinkedIn-oscarcalvor-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=ocalvo&style=flat-square&color=blue" alt="profile views">
 </p>
@@ -22,7 +21,7 @@
 - 🛠️ Off the clock I build developer tooling for Windows as PowerShell modules (`PwrSudo`, `PwrRazzle`, `PwrCortex`, …).
 - 🏠 I run a heavily automated home: Home Assistant, Z-Wave, and a custom smart-climate stack for Midea/CCM15 HVAC (`py-ccm15`).
 - 🎓 MSc & BSc in Software Engineering, Costa Rica Institute of Technology.
-- 📍 Seattle area, WA · 🌐 [calvosoftware.com](https://calvosoftware.com)
+- 📍 Seattle area, WA
 
 ### Tech & tools
 
