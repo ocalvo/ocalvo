@@ -38,11 +38,17 @@
 
 ### Open-source contributions
 
-Merged pull requests to projects I don't own (live counts — click through to the PRs):
+Merged pull requests, public and live (click any badge to see the PRs):
 
-[![Merged PRs @ Microsoft](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Amicrosoft&query=%24.total_count&label=Merged%20PRs%20%40%20Microsoft&color=0078D6&logo=github&style=flat-square&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Amicrosoft&type=pullrequests)
-[![Merged PRs @ CommunityToolkit](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3ACommunityToolkit&query=%24.total_count&label=Merged%20PRs%20%40%20CommunityToolkit&color=512BD4&logo=github&style=flat-square&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3ACommunityToolkit&type=pullrequests)
-[![Merged PRs @ Home Assistant](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Ahome-assistant&query=%24.total_count&label=Merged%20PRs%20%40%20Home%20Assistant&color=18BCF2&logo=github&style=flat-square&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Ahome-assistant&type=pullrequests)
+[![Total Merged PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged&query=%24.total_count&label=Total%20Merged%20PRs&color=2EA44F&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged&type=pullrequests)
+
+In projects I don't own:
+
+[![Microsoft](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Amicrosoft&query=%24.total_count&label=Microsoft&color=0078D6&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Amicrosoft&type=pullrequests)
+[![CommunityToolkit](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3ACommunityToolkit&query=%24.total_count&label=CommunityToolkit&color=512BD4&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3ACommunityToolkit&type=pullrequests)
+[![Home Assistant](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Ahome-assistant&query=%24.total_count&label=Home%20Assistant&color=18BCF2&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Ahome-assistant&type=pullrequests)
+[![Gammu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Agammu&query=%24.total_count&label=Gammu&color=0A7C8C&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Agammu&type=pullrequests)
+[![Pester](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Apester&query=%24.total_count&label=Pester&color=5391FE&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Apester&type=pullrequests)
 
 Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged) · [`microsoft/WinUI-Gallery`](https://github.com/microsoft/WinUI-Gallery/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged) · [`microsoft/Xaml-Islands-Samples`](https://github.com/microsoft/Xaml-Islands-Samples/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged)
 
