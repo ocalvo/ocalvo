@@ -36,6 +36,16 @@
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=home-assistant&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Open-source contributions
+
+Merged pull requests to projects I don't own (live counts — click through to the PRs):
+
+[![Merged PRs @ Microsoft](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Amicrosoft&query=%24.total_count&label=Merged%20PRs%20%40%20Microsoft&color=0078D6&logo=github&style=flat-square&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Amicrosoft&type=pullrequests)
+[![Merged PRs @ CommunityToolkit](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3ACommunityToolkit&query=%24.total_count&label=Merged%20PRs%20%40%20CommunityToolkit&color=512BD4&logo=github&style=flat-square&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3ACommunityToolkit&type=pullrequests)
+[![Merged PRs @ Home Assistant](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Ahome-assistant&query=%24.total_count&label=Merged%20PRs%20%40%20Home%20Assistant&color=18BCF2&logo=github&style=flat-square&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Ahome-assistant&type=pullrequests)
+
+Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged) · [`microsoft/WinUI-Gallery`](https://github.com/microsoft/WinUI-Gallery/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged) · [`microsoft/Xaml-Islands-Samples`](https://github.com/microsoft/Xaml-Islands-Samples/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged)
+
 ### What you'll find here
 
 | Project | What it does |
