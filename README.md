@@ -7,15 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscarcalvor/"><img src="https://img.shields.io/badge/LinkedIn-oscarcalvor-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=ocalvo&style=flat-square&color=blue" alt="profile views">
 </p>
 
 ---
 
 ### About me
 
-- 🪟 Currently building **native Windows apps** (since 2025).
-- 💻 Before that, **18 years at Microsoft** (2007–2025): the **distributed build system every Windows engineer uses**, modernizing MSBuild in the Windows build pipeline.
+- 💻 **18 years at Microsoft** (2007–2025): the **distributed build system every Windows engineer uses**, modernizing MSBuild in the Windows build pipeline.
 - 🎨 Years in **Windows UI / XAML / WinUI** (including the new Terminal console window) and helped Adobe move their app suite onto the Windows App SDK.
 - 🔧 In Visual Studio I shipped **CodeLens**, the **Fakes** stubs/shims framework, the ground-up XAML unit-testing window (scales to 100k tests), and the VS 2010 UML tools.
 - 🛠️ Off the clock I build developer tooling for Windows as PowerShell modules (`PwrSudo`, `PwrRazzle`, `PwrCortex`, …).
@@ -80,8 +78,4 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ocalvo&show_icons=true&hide_border=true&theme=default">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocalvo&layout=compact&hide_border=true&theme=default">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ocalvo&hide_border=true&theme=default">
 </p>
