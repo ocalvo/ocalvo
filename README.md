@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Oscar Calvo 👋</h1>
 
 <p align="center">
-  <b>Software Engineer @ Apple</b> · building Apple TV for Windows · Seattle area, WA<br>
+  <b>Software Engineer</b> · building native Windows apps · Seattle area, WA<br>
   Native Windows apps &amp; dev tooling by day · Home Assistant / smart-climate tinkering by night
 </p>
 
@@ -14,7 +14,7 @@
 
 ### About me
 
-- 🍏 Currently at **Apple**, building **Apple TV for Windows** (since Summer 2025).
+- 🪟 Currently building **native Windows apps** (since 2025).
 - 💻 Before that, **18 years at Microsoft** (2007–2025): the **distributed build system every Windows engineer uses**, modernizing MSBuild in the Windows build pipeline.
 - 🎨 Years in **Windows UI / XAML / WinUI** (including the new Terminal console window) and helped Adobe move their app suite onto the Windows App SDK.
 - 🔧 In Visual Studio I shipped **CodeLens**, the **Fakes** stubs/shims framework, the ground-up XAML unit-testing window (scales to 100k tests), and the VS 2010 UML tools.
@@ -47,8 +47,8 @@ In projects I don't own:
 [![Microsoft](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Amicrosoft&query=%24.total_count&label=Microsoft&color=0078D6&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Amicrosoft&type=pullrequests)
 [![CommunityToolkit](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3ACommunityToolkit&query=%24.total_count&label=CommunityToolkit&color=512BD4&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3ACommunityToolkit&type=pullrequests)
 [![Home Assistant](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Ahome-assistant&query=%24.total_count&label=Home%20Assistant&color=18BCF2&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Ahome-assistant&type=pullrequests)
-[![Gammu](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Agammu&query=%24.total_count&label=Gammu&color=0A7C8C&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Agammu&type=pullrequests)
-[![Pester](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aocalvo%2Btype%3Apr%2Bis%3Amerged%2Borg%3Apester&query=%24.total_count&label=Pester&color=5391FE&logo=github&logoColor=white&style=for-the-badge&cacheSeconds=3600)](https://github.com/search?q=author%3Aocalvo+type%3Apr+is%3Amerged+org%3Apester&type=pullrequests)
+
+<sub>Counts reflect public open-source PRs only — work in private/internal repos isn't shown.</sub>
 
 Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged) · [`microsoft/WinUI-Gallery`](https://github.com/microsoft/WinUI-Gallery/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged) · [`microsoft/Xaml-Islands-Samples`](https://github.com/microsoft/Xaml-Islands-Samples/pulls?q=is%3Apr+author%3Aocalvo+is%3Amerged)
 
