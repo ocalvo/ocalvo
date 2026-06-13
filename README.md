@@ -46,6 +46,18 @@
 | [PwrCortex](https://github.com/ocalvo/PwrCortex) | PowerShell automation module |
 | [py-ccm15](https://github.com/ocalvo/py-ccm15) | Python library for the Midea CCM15 data converter |
 
+### 🏠 Home automation — [@HomeOps](https://github.com/HomeOps)
+
+| Project | What it does |
+| --- | --- |
+| [HASS-Smart-Climate](https://github.com/HomeOps/HASS-Smart-Climate) | ESPHome IR climate component for Midea HVAC, with Follow-Me support |
+| [ESPHome-Midea-XYE](https://github.com/HomeOps/ESPHome-Midea-XYE) | ESPHome component driving Midea HVAC over the XYE/CCM RS-485 bus |
+| [esphome-hass-panels](https://github.com/HomeOps/esphome-hass-panels) | Touch-screen alarm-keypad firmware (ESP32-S3) — LVGL UI, native HA panel |
+| [PwrHass](https://github.com/HomeOps/PwrHass) | PowerShell client for Home Assistant — service calls + state queries |
+| [Qaelestis](https://github.com/HomeOps/Qaelestis) | Home Assistant config for Caelestis Point |
+| [Duvall-Home](https://github.com/HomeOps/Duvall-Home) | Home Assistant config for the Duvall home |
+| [Duvall-Rental](https://github.com/HomeOps/Duvall-Rental) | Home Assistant config for the Duvall rental |
+
 ### Recent activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#38](https://github.com/ocalvo/py-ccm15/pull/38) in [ocalvo/py-ccm15](https://github.com/ocalvo/py-ccm15)
