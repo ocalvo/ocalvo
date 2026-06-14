@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/ocalvo/py-ccm15/pull/43#issuecomment-4697435745) in [ocalvo/py-ccm15](https://github.com/ocalvo/py-ccm15)
+1. 🎉 Merged PR [#51](https://github.com/HomeOps/esphome-hass-panels/pull/51) in [HomeOps/esphome-hass-panels](https://github.com/HomeOps/esphome-hass-panels)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
