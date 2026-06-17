@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#173788](https://github.com/home-assistant/core/pull/173788) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#174099](https://github.com/home-assistant/core/pull/174099#issuecomment-4725533504) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
