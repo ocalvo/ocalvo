@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/HomeOps/ir-adapter/pull/3) in [HomeOps/ir-adapter](https://github.com/HomeOps/ir-adapter)
+1. 🎉 Merged PR [#173793](https://github.com/home-assistant/core/pull/173793) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
