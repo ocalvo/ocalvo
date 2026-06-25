@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#173793](https://github.com/home-assistant/core/pull/173793) in [home-assistant/core](https://github.com/home-assistant/core)
+1. ❌ Closed PR [#1087](https://github.com/Lucaslhm/Flipper-IRDB/pull/1087) in [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
