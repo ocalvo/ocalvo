@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1087](https://github.com/Lucaslhm/Flipper-IRDB/pull/1087) in [Lucaslhm/Flipper-IRDB](https://github.com/Lucaslhm/Flipper-IRDB)
+1. 💪 Opened PR [#3](https://github.com/HomeOps/ir-adapter/pull/3) in [HomeOps/ir-adapter](https://github.com/HomeOps/ir-adapter)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
