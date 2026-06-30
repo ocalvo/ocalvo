@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4651](https://github.com/home-assistant/operating-system/issues/4651#issuecomment-4824295752) in [home-assistant/operating-system](https://github.com/home-assistant/operating-system)
+1. ❌ Closed PR [#56](https://github.com/HomeOps/esphome-hass-panels/pull/56) in [HomeOps/esphome-hass-panels](https://github.com/HomeOps/esphome-hass-panels)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
