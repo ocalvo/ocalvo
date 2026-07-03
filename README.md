@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/HomeOps/esphome-hass-panels/pull/63) in [HomeOps/esphome-hass-panels](https://github.com/HomeOps/esphome-hass-panels)
+1. 🎉 Merged PR [#157](https://github.com/HomeOps/ESPHome-Midea-XYE/pull/157) in [HomeOps/ESPHome-Midea-XYE](https://github.com/HomeOps/ESPHome-Midea-XYE)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
