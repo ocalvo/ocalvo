@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/HomeOps/esphome-blekeyboard/pull/25) in [HomeOps/esphome-blekeyboard](https://github.com/HomeOps/esphome-blekeyboard)
+1. ❌ Closed PR [#26](https://github.com/HomeOps/esphome-blekeyboard/pull/26) in [HomeOps/esphome-blekeyboard](https://github.com/HomeOps/esphome-blekeyboard)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
