@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/HomeOps/esphome-blekeyboard/pull/28#issuecomment-4920655332) in [HomeOps/esphome-blekeyboard](https://github.com/HomeOps/esphome-blekeyboard)
+1. 🎉 Merged PR [#28](https://github.com/HomeOps/esphome-blekeyboard/pull/28) in [HomeOps/esphome-blekeyboard](https://github.com/HomeOps/esphome-blekeyboard)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
