@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/HomeOps/esphome-usb-hid-keyboard/pull/4) in [HomeOps/esphome-usb-hid-keyboard](https://github.com/HomeOps/esphome-usb-hid-keyboard)
+1. 🎉 Merged PR [#161](https://github.com/HomeOps/ESPHome-Midea-XYE/pull/161) in [HomeOps/ESPHome-Midea-XYE](https://github.com/HomeOps/ESPHome-Midea-XYE)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
