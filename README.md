@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#161](https://github.com/HomeOps/ESPHome-Midea-XYE/pull/161) in [HomeOps/ESPHome-Midea-XYE](https://github.com/HomeOps/ESPHome-Midea-XYE)
+1. 🎉 Merged PR [#3](https://github.com/HomeOps/HASS-Samsung-Dongle-Local/pull/3) in [HomeOps/HASS-Samsung-Dongle-Local](https://github.com/HomeOps/HASS-Samsung-Dongle-Local)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
