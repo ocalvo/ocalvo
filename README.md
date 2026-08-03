@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/HomeOps/HASS-Samsung-Dongle-Local/pull/3) in [HomeOps/HASS-Samsung-Dongle-Local](https://github.com/HomeOps/HASS-Samsung-Dongle-Local)
+1. 🎉 Merged PR [#9](https://github.com/HomeOps/wmux/pull/9) in [HomeOps/wmux](https://github.com/HomeOps/wmux)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
