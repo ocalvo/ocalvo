@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/HomeOps/wmux/pull/9) in [HomeOps/wmux](https://github.com/HomeOps/wmux)
+1. 🎉 Merged PR [#85](https://github.com/HomeOps/HASS-Smart-Climate/pull/85) in [HomeOps/HASS-Smart-Climate](https://github.com/HomeOps/HASS-Smart-Climate)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
