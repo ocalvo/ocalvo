@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/HomeOps/HASS-SMS-Gammu-Gateway/pull/19) in [HomeOps/HASS-SMS-Gammu-Gateway](https://github.com/HomeOps/HASS-SMS-Gammu-Gateway)
+1. 💪 Opened PR [#1178](https://github.com/gammu/gammu/pull/1178) in [gammu/gammu](https://github.com/gammu/gammu)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
