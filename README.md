@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1178](https://github.com/gammu/gammu/pull/1178) in [gammu/gammu](https://github.com/gammu/gammu)
+1. 🎉 Merged PR [#411384](https://github.com/microsoft/winget-pkgs/pull/411384) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
