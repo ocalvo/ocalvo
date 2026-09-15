@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#411384](https://github.com/microsoft/winget-pkgs/pull/411384) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 🗣 Commented on [#175669](https://github.com/home-assistant/core/pull/175669#issuecomment-5672885668) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
