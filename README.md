@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175669](https://github.com/home-assistant/core/pull/175669#issuecomment-5672885668) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#163](https://github.com/HomeOps/ESPHome-Midea-XYE/pull/163#issuecomment-6028122967) in [HomeOps/ESPHome-Midea-XYE](https://github.com/HomeOps/ESPHome-Midea-XYE)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
