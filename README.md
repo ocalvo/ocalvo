@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/HomeOps/wmux/pull/15) in [HomeOps/wmux](https://github.com/HomeOps/wmux)
+1. 🎉 Merged PR [#19](https://github.com/ocalvo/PwrSearch/pull/19) in [ocalvo/PwrSearch](https://github.com/ocalvo/PwrSearch)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
