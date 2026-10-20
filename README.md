@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/ocalvo/PwrSearch/pull/19) in [ocalvo/PwrSearch](https://github.com/ocalvo/PwrSearch)
+1. 🎉 Merged PR [#453048](https://github.com/microsoft/winget-pkgs/pull/453048) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
