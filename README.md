@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/HomeOps/py-ccm15/pull/67) in [HomeOps/py-ccm15](https://github.com/HomeOps/py-ccm15)
+1. 🎉 Merged PR [#453087](https://github.com/microsoft/winget-pkgs/pull/453087) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
