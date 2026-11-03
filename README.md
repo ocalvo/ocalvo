@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#453087](https://github.com/microsoft/winget-pkgs/pull/453087) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 🎉 Merged PR [#6](https://github.com/HomeOps/HASS-Ultrasonic-Tank/pull/6) in [HomeOps/HASS-Ultrasonic-Tank](https://github.com/HomeOps/HASS-Ultrasonic-Tank)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
