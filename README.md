@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/HomeOps/HASS-Ultrasonic-Tank/pull/7) in [HomeOps/HASS-Ultrasonic-Tank](https://github.com/HomeOps/HASS-Ultrasonic-Tank)
+1. 💪 Opened PR [#9](https://github.com/HomeOps/HASS-Ultrasonic-Tank/pull/9) in [HomeOps/HASS-Ultrasonic-Tank](https://github.com/HomeOps/HASS-Ultrasonic-Tank)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
