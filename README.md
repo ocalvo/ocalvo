@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#942](https://github.com/happier-dev/happier/issues/942) in [happier-dev/happier](https://github.com/happier-dev/happier)
+1. 💪 Opened PR [#486218](https://github.com/microsoft/winget-pkgs/pull/486218) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
