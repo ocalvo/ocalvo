@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#486920](https://github.com/microsoft/winget-pkgs/pull/486920#issuecomment-7114083106) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 🎉 Merged PR [#486920](https://github.com/microsoft/winget-pkgs/pull/486920) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
