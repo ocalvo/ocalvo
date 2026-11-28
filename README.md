@@ -72,7 +72,7 @@ Highlights: [`microsoft/terminal`](https://github.com/microsoft/terminal/pulls?q
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175669](https://github.com/home-assistant/core/pull/175669#issuecomment-7224330337) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🎉 Merged PR [#30](https://github.com/shoji-labs/PwrSvg/pull/30) in [shoji-labs/PwrSvg](https://github.com/shoji-labs/PwrSvg)
 <!--END_SECTION:activity-->
 
 ### GitHub stats
